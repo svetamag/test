@@ -11,6 +11,10 @@ int main()
 
 	std::cout << "Hello World!\n";
 	std::cout << "Hello World!\n";
+
+	std::cout << "Hello World!\n";
+	std::cout << "Hello World!\n";
+
 }
 
 // Советы по началу работы 
